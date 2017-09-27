@@ -1,0 +1,10 @@
+{
+    "name": "coding-challenge",
+    "version": "0.0.1",
+    "scripts": { 
+      "test": "node_modules/.bin/protractor conf.js"
+    },
+    "dependencies": {
+      "protractor": "5.1.2"
+    }
+}
